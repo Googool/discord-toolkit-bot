@@ -12,8 +12,8 @@ Translations are managed through [Crowdin]().
 
 ### Contributors
 
-<a href="https://github.com/Googool/boot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Googool/boot" />
+<a href="https://github.com/Googool/discord-toolkit-bot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Googool/discord-toolkit-bot" />
 </a>
 
 ## License
