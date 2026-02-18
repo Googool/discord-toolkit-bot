@@ -19,6 +19,14 @@ export class Discord extends Client {
     await this.login(token);
   }
 
+  public async loadCommands(): Promise<void> {
+    //
+  }
+
+  public async loadEvents(): Promise<void> {
+    //
+  }
+
   public stop(): void {
     this.destroy();
   }
